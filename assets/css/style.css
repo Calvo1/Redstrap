@@ -1,0 +1,27 @@
+.screenshots li{
+	display: inline;
+	padding-right: 1px;
+}
+.screenshots li img {
+	padding-bottom: 5px;
+}
+.blog_name {
+	width: 47%;
+}
+.blog_email {
+	width: 47%;
+}
+.blog_content {
+	width: 97%;
+	height: 250px;
+}
+.contact_name {
+	width: 47%;
+}
+.contact_email {
+	width: 47%;
+}
+.contact_content {
+	width: 97%;
+	height: 250px;
+}
